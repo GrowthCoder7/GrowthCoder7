@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Prince Kumar</h1>
-<h3 align="center">Full-Stack Software Engineer | System Design Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full-Stack Software Engineer | System Architecture Enthusiast</h3>
 
 <p align="center">
-  I specialize in building scalable web applications, robust APIs, and event-driven architectures. Currently, I'm working extensively with Node.js, NestJS, and PostgreSQL to build high-availability backend systems.
+  I specialize in building scalable web applications, robust APIs, and event-driven architectures. With a strong focus on system design and high availability, I currently build high-performance backend systems using Node.js, NestJS, and PostgreSQL.
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 **Languages:**
 <br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
 
@@ -44,20 +44,34 @@
 
 ---
 
-### 🚀 Featured Projects
-* **[PayFlux](#):** Scalable payment orchestration system supporting 3+ gateways using NestJS, PostgreSQL, Kafka, and Redis. (99.95% reliability)
-* **[ZapFlow](#):** Low-code automation platform processing webhook ingestions via event-driven RabbitMQ/Kafka architecture.
-* **[MailWise](#):** AI-Powered email client utilizing RAG and Weaviate Vector DB to classify and query 1,000+ emails.
+### 🚀 Featured Engineering Projects
+
+* **[PayFlux](#):** Scalable payment orchestration system supporting 3+ gateways using Nest.JS, PostgreSQL, Kafka, and Redis, achieving 99.95% reliability.
+* **[ZapFlow](#):** Low-code automation platform processing webhook ingestions via event-driven RabbitMQ architecture, reducing workflow failures by 35%.
+* **[MailWise](#):** AI-Powered SaaS email client utilizing RAG and Vector Databases to classify and query 1,000+ emails.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrowthCoder7&show_icons=true&theme=radical&hide_border=true" alt="Prince's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrowthCoder7&theme=radical&hide_border=true" alt="Prince's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GrowthCoder7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Prince's GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowthCoder7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
-<p align="center">
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GrowthCoder7/GrowthCoder7/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GrowthCoder7/GrowthCoder7/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GrowthCoder7/GrowthCoder7/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/GrowthCoder7/count.svg" alt="Profile Views" />
-</p>
+</div>
